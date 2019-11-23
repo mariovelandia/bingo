@@ -78,11 +78,7 @@
 		.marker.m22 { top: 164px; left: -79px; }
 		.marker.m23 { top: 164px; left: -77px; }
 		.marker.m24 { top: 164px; left: -75px; }
-		.marker.m25 { top: 107px; left: 264px; }
-
-		.markers.group0 {
-			top: 0px;
-		}
+		.marker.m25 { top: 107px; left: 264px; }		
 
 		.markers {
 			position: absolute;
@@ -91,13 +87,14 @@
 
 		.marker { position: relative }
 
-		.markers.group1 {
-			top: 425px;
-		}
-		.markers.group2 {
-    top: 848px;
-}
-  </style>
+		
+		.markers.group0 { top: 0px; }
+		<?php
+			for ($i=1; $i < 15; $i++) { 
+				echo '.markers.group'.$i.' { top: '.($i*425).'px; } ';
+			}
+		?>
+  </style>	
 </body>
 </html>
 
