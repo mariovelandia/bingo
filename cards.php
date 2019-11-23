@@ -38,7 +38,7 @@
 	<div class="container grid-xs px-0 text-center py-20">
 
 		<h5 class="bold">1. ¡Mira el Bingo en Vivo!</h5>
-		<a href="https://web.facebook.com/mapis.benitez/videos/2787730727956326?d=n&sfns=mo" class="btn btn-primary">Mira en Vivo el Evento</a>
+		<a href="https://web.facebook.com/mapis.benitez/videos/2787730727956326?d=n&sfns=mo" class="btn btn-primary" target="_blank">Mira en Vivo el Evento</a>
 		
 		<h5 class="bold mt-20">2. Comenta para cantar el bingo</h5>
 		<p>Si ganas escribe tu comentario acá</p>
