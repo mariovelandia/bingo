@@ -38,7 +38,7 @@
 	<div class="container grid-xs px-0 text-center py-20">
 
 		<h5 class="bold">1. ¡Mira el Bingo en Vivo!</h5>
-		<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook%2Fvideos%2F10153231379946729%2F&width=500&show_text=false&appId=663854497115733&height=280" width="100%" height="230px" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="false"></iframe>
+		<a href="https://web.facebook.com/mapis.benitez/videos/2787730727956326?d=n&sfns=mo" class="btn btn-primary">Mira en Vivo el Evento</a>
 		
 		<h5 class="bold mt-20">2. Comenta para cantar el bingo</h5>
 		<p>Si ganas escribe tu comentario acá</p>
@@ -49,9 +49,11 @@
   integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
   crossorigin="anonymous"></script>
   <script>
-	  $('.marker').click(function(e){
-		  $(this).toggleClass('on');
-	  })
+	  	// const data = { 'group1': [], 'group2': [], 'group3': [], 'group4': [], 'group5': [], 'group6': [], 'group7': [], 'group8': [], 'group9': [], 'group10': [], 'group11': [], 'group12': [] };	  	
+
+	  	$('.marker').click(function(e){
+			$(this).toggleClass('on');
+	  	})
   </script>
   <style>
 		.marker.m1 { top: 97px; left: 31px; }
