@@ -1,3 +1,10 @@
+<?php
+
+header('Location: https://bingo.smart4.com.co/game.php');
+die();
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

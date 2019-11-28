@@ -47,8 +47,8 @@
 			<div class="column col-8">
 				<div class="card mb-30 text-center">
 					<div class="card-body">
-						<h1 class="mb-0">Bingo #1 de 3</h1>
-						<h3>Gran premio: <strong>Ancheta de Amway</strong></h3>
+						<h1 class="mb-0">Bingo #3 de 3</h1>
+						<h3>Gran premio: <strong>Tarjeta Yeko 2 años ($891k)</strong></h3>
 					</div>
 				</div>
 				<div class="card">
